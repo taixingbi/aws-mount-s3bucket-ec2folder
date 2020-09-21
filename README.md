@@ -1,1 +1,5 @@
-# aws-mount-s3bucket-ec2folder
+
+#### install s3fs on ubuntu
+```
+sudo apt install s3fs
+```
