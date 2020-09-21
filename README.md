@@ -1,5 +1,7 @@
 
 #### install s3fs on ubuntu
 ```
-sudo apt install s3fs
+https://fullstacknotes.com/mount-aws-s3-bucket-to-ubuntu-file-system/
 ```
+
+
