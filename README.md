@@ -15,8 +15,11 @@ s3_key:s3_passwd
 ###### mount
 ```
 sudo s3fs bucket_name local_folder -o use_cache=/tmp/cache -o allow_other -o uid=1001 
-sudo s3fs ml-data-warehouse-uat /phq8 -o use_cache=/tmp/cache -o allow_other -o uid=1001 
+sudo s3fs ml-data-warehouse-uat ~/phq8 -o use_cache=/tmp/cache -o allow_other -o uid=1001 
 ```
+
+###### reference
+https://www.youtube.com/watch?v=f_YujEv7tdA
 
 
 
