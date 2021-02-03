@@ -1,6 +1,6 @@
 ###### blog
 ```
-https://fullstacknotes.com/mount-aws-s3-bucket-to-ubuntu-file-system/
+https://creodias.eu/-/how-to-mount-object-storage-container-as-a-file-system-in-linux-using-s3fs-
 ```
 
 ###### save password
