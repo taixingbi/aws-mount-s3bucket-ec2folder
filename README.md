@@ -12,7 +12,7 @@ esc : x!
 s3_key:s3_passwd
 
 
-# Allow non-root users to specify the allow_other or allow_root mount options
+###### Allow non-root users to specify the allow_other or allow_root mount options
 ```
 sudo nano /etc/fuse.conf
 uncomment user_allow_other
