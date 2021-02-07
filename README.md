@@ -24,7 +24,7 @@ sudo s3fs bucket_name local_folder -o use_cache=/tmp/cache -o allow_other -o uid
 sudo s3fs ml-data-warehouse-uat ~/s3_bucket-phq8 -o use_cache=/tmp/cache -o allow_other -o uid=1001 
 sudo s3fs ml-data-warehouse-video-record ~/ml-data-warehouse-video-record -o use_cache=/tmp/cache -o allow_other -o uid=1001 
 sudo s3fs ml-kaden-data-interface-test ~/ml-kaden-data-interface-test -o use_cache=/tmp/cache -o allow_other -o uid=1001 
-sudo s3fs ml-kaden-data-analysis-test ~/ml-kaden-data-analysis-test -o use_cache=/tmp/cache -o allow_other -o uid=1001 
+sudo s3fs ml-kaden-data-analysis-test2 ~/ml-kaden-data-analysis-test2 -o use_cache=/tmp/cache -o allow_other -o uid=1001 
 
 ```
 
