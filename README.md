@@ -26,6 +26,8 @@ sudo s3fs ml-data-warehouse-video-record ~/ml-data-warehouse-video-record -o use
 sudo s3fs ml-kaden-data-interface-test ~/ml-kaden-data-interface-test -o use_cache=/tmp/cache -o allow_other -o uid=1001  -o umask=0277
 sudo s3fs ml-kaden-data-analysis-test2 ~/ml-kaden-data-analysis-test2 -o use_cache=/tmp/cache -o allow_other -o uid=1001  -o umask=0277
 
+sudo s3fs ml-web-collect-training-data ~/ml-web-collect-training-data -o use_cache=/tmp/cache -o allow_other -o uid=1001  -o umask=0277
+
 ```
 
 ###### reference
